@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/Desktop/projects/voiceRecognition/Signal.cpp
+Signal.h
+/home/victor/Desktop/projects/voiceRecognition/Signal.h
+
+/home/victor/Desktop/projects/voiceRecognition/Signal.h
+iostream
+-
+iomanip
+-
+complex
+-
+cmath
+-
+vector
+-
+
+/home/victor/Desktop/projects/voiceRecognition/main.cpp
+iostream
+-
+Signal.h
+/home/victor/Desktop/projects/voiceRecognition/Signal.h
+iostream
+-
+iomanip
+-
+complex
+-
+cmath
+-
+vector
+-
+
